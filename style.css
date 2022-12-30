@@ -68,9 +68,9 @@ nav {
   color: var(--Soft-red);
 }
 
-/* .hamburger {
+.hamburger {
   display: none;
-} */
+}
 
 .content {
   width: 100%;
